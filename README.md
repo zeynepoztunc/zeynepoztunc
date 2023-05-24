@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently a 3rd year Computer Science student @Bilkent.
+- 🔭 I’m currently a 3rd year Computer Science student @Bilkent.  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=zeynepoztunc&show_icons=true) 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepoztunc&theme=blue-pink) 
 
