@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋🏻, I'm Zeynep </h2>
 
 - 🔭 I’m currently a 3rd year Computer Science student @Bilkent.    
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=zeynepoztunc&show_icons=true&theme=omni)   
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepoztunc&theme=omni) 
 
