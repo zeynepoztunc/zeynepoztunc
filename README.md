@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋🏻, I'm Zeynep </h2>
 
 - 🔭 I’m currently a 3rd year Computer Science student @Bilkent.    
-
-![7d07a255678962d30d8717dcf5dbd266](https://github.com/zeynepoztunc/zeynepoztunc/assets/85746781/b403f0b3-617a-4951-9d8e-13a525adac3a)
-
+<p align="center">
+<img src="https://github.com/zeynepoztunc/zeynepoztunc/assets/85746781/b403f0b3-617a-4951-9d8e-13a525adac3a"> 
+</p>
 
 <table>
   <tr>
