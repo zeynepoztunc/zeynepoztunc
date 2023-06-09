@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently a 3rd year Computer Science student @Bilkent.    
 <p align="center">
-<img src="https://github.com/zeynepoztunc/zeynepoztunc/assets/85746781/b403f0b3-617a-4951-9d8e-13a525adac3a"> 
+  <img src="https://github.com/zeynepoztunc/zeynepoztunc/assets/85746781/b403f0b3-617a-4951-9d8e-13a525adac3a" alt="Image" style="width: 100%; max-width: 100%;">
 </p>
+
 
 <table>
   <tr>
