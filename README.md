@@ -8,13 +8,14 @@
 <table>
   <tr>
     <td> <img class="img" src="https://github-readme-stats.vercel.app/api?username=zeynepoztunc&show_icons=true&theme=omni"/>   </td>
-    <td> <img class="img" src="https://github-readme-stats.vercel.app/api?username=zeynepoztunc&show_icons=true&theme=omni"/>   </td>
+    <td> <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepoztunc§theme=omni"/>   </td>
   </tr>
 </table>
 <!--
 **zeynepoztunc/zeynepoztunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <td>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=zeynepoztunc&show_icons=true&theme=omni)   </td>
 Here are some ideas to get you started:
+https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepoztunc§theme=omni)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
