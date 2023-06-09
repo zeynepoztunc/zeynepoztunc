@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td> <img class="img" src="https://github-readme-stats.vercel.app/api?username=zeynepoztunc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>   </td>
-    <td> <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepoztunc&show_icons=true&theme=gradient"/>   </td>
+    <td> <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepoztunc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>   </td>
   </tr>
 </table>
 <!--
