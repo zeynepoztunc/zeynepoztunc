@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=zeynepoztunc&show_icons=true&theme=omni)   </td>
+    <td> <img class="img" src="https://github-readme-stats.vercel.app/api?username=zeynepoztunc&show_icons=true&theme=omni"/>   </td>
     <td>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=zeynepoztunc&show_icons=true&theme=omni)   </td>
   </tr>
 </table>
