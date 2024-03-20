@@ -20,7 +20,7 @@
     <td> <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepoztunc&theme=omni&layout=donut"/>   </td>
   </tr>
 </table
-[](https://komarev.com/ghpvc/?username=zeynepoztunc&color=ff69b4	)
+![Profile Views](https://komarev.com/ghpvc/?username=zeynepoztunc&color=ff69b4)
 
 <!-- 
 **zeynepoztunc/zeynepoztunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
