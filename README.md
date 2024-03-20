@@ -19,4 +19,4 @@
     <td> <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepoztunc&theme=omni&layout=donut"/>   </td>
   </tr>
 </table
-      ![](https://komarev.com/ghpvc/?username=zeynepoztunc&color=ff69b4	)
+![](https://komarev.com/ghpvc/?username=zeynepoztunc&color=ff69b4	)
