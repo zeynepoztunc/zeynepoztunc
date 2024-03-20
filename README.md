@@ -18,7 +18,8 @@
     <td> <img class="img" src="https://github-readme-stats.vercel.app/api?username=zeynepoztunc&theme=omni&rank_icon=github"/>   </td>
     <td> <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepoztunc&theme=omni&layout=donut"/>   </td>
   </tr>
-</table>
+</table
+![](https://komarev.com/ghpvc/?username=zeynepoztunc)
 <!--
 **zeynepoztunc/zeynepoztunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <td>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=zeynepoztunc&show_icons=true&theme=omni)   </td>
