@@ -1,6 +1,9 @@
 <h1 align="left">Hi✋🏻, I'm Zeynep </h1>
 
-- 🔭 I’m currently a senior Computer Science student @Bilkent interested in web development with Spring and React.
+- 🎓 **Background:** I graduated in 2024 with a Bachelor's degree in Computer Science from Bilkent University.
+- 🔭 **Current Focus:** I'm a first-year Master’s student in Computer Engineering at [Politecnico di Torino](https://www.polito.it/), specializing in **Artificial Intelligence and Data Analytics**.
+- 💻 **Interests:** I’m passionate about **web development**, particularly with **Spring** and **React**. I enjoy building interactive and efficient applications and am always excited to learn more about web technologies!
+- 📚 **Learning:** Alongside AI, I'm diving into advanced data analytics and improving my skills in machine learning.
 
 <!--  
 <p align="center">
